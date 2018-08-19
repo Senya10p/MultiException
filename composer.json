@@ -1,0 +1,17 @@
+{
+  "name": "senya10p/multiexception",
+  "description": "multiexception composer package",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Senya10p",
+      "email": "fuss-fuss-fuss@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "classmap": ["src"]
+  }
+}

@@ -1,0 +1,1 @@
+#MultiException пакет для composer
