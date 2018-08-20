@@ -1,6 +1,8 @@
 {
   "name": "senya10p/multiexception",
   "description": "multiexception composer package",
+  "perfer-stable": true,
+  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
